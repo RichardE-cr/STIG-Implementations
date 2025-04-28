@@ -20,7 +20,8 @@
     PowerShell Ver. : 5.1.19041.5737    
 
 .USAGE
-    Run the WN10-00-000031.ps1 script with default settings
+    Run the WN10-00-000031.ps1 script with default settings. 
+    Run as Administrator.
 #>
 
 # Define the registry base path
